@@ -70,7 +70,7 @@ trading outcome — a key finding that prediction accuracy and economic value do
 move together.
 
 ## Files
-- `Network_Crash_Early_Warning.docx` — full paper
+- `Network_Crash_Early_Warning.pdf` — full paper
 - `Network_Crash_Model_Code.html` — model code (fragility score, XGBoost, backtest)
 
 [← Back to Quant Research Projects](../)
