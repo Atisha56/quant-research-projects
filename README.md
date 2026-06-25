@@ -1,4 +1,4 @@
-# Quant Research Projects
+# Quantative Finance Research 
 
 Independent and co-authored quantitative finance research covering machine learning crash
 prediction, event studies, panel econometrics, and time-series volatility modeling.
