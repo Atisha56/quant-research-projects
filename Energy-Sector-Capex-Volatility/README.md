@@ -44,6 +44,7 @@ positive vs. negative shocks.*
 
 ## Files
 - `Energy_Sector_Capex_Volatility.pdf` — full paper
+- `energy_data.csv` — Part 1 firm-level panel data (247 energy firms, 2014–2024)
 - `Panel_Regression_Capex_Code.R` — Part 1 panel fixed-effects regression
 - `XOM_Volatility_Code.r` — Part 2 ARFIMA-GARCH/APARCH volatility modeling
 
