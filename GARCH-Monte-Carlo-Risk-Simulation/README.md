@@ -1,6 +1,6 @@
 # GARCH Monte Carlo Risk Simulation
 
-- **Status:** Complete (individual project[, COURSE NAME])
+- **Status:** Complete (individual project[, QFE 5340 Financial Econometrics])
 - **Tools:** C++
 
 ## Overview
